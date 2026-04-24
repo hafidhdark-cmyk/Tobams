@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+nextjs-portal {
+  display: none;
+}
+
+@theme {
+  --font-nunito: var(--font-nunito);
+  --font-nunito-sans: var(--font-nunito-sans);
+
+  --color-primary: #571244;
+  --color-main-text: #151515;
+}
